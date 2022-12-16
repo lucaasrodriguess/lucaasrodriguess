@@ -1,6 +1,6 @@
 ### Olá, Sou Lucas Rodrigues!
 
-- ⚡ Estuding: Python
+- ⚡ Estuding: JavaScript and ReactScript
 <div align="center">
   <a href="https://github.com/lucaasrodriguess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/lucas-rodrigues-159614230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-   ![Snake animation](https://github.com/lucaasrodriguess/lucaasrodriguess/blob/main/.github/workflows/snake.yml)
+  ![Snake animation]([https:github.com/lucaasrodriguess/lucaasrodriguess/blob/main/.github/workflows/snake.yml))
  
 </div>
 
